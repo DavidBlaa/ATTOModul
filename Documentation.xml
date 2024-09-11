@@ -1,0 +1,291 @@
+﻿<categories>
+<category>
+	<name>Portal</name>
+	<description>
+		The ATTO data portal is the main tool for data sharing within the ATTO consortium and for external researchers. Step by step tutorials on how to use the ATTO data portal are provided.	Please review the following documents carefully before uploading and sharing any data to the portal. The data management will help with sharing and publication of data.
+	</description>
+	<files>
+		<file 
+		header="Data Policy" 
+		infotext="All data sharing has to be done via the ATTO data portal. Please read the Data Policy carefully - it is intended to ensure that the ATTO Data policy is known to and accepted by all ATTO Data users. " 
+		name="Data Policy (English version)" 
+		filename="ATTO_DATA POLICY_20180917.pdf" 
+		/>
+	</files>
+	<files>
+		<file 
+		name="Data Policy (Portuguese version)" 
+		filename="ATTO_Politica_de_Dados_20180917.pdf" 
+		/>
+	</files>
+	<files>
+		<file 
+		header="Explore Data" 
+		infotext="How to find datasets via metadata information and request datasets." 
+		name="How To Explore Data" 
+		filename="HowToExploreData_V4.0_082022.pdf" 
+		/>
+	</files>
+		<links>
+		<link 
+		infotext="HowTo Document on GitHub"
+		link="https://github.com/ATTODataPortal/Documents/blob/main/HowTo/HowToExploreData.md" 
+		/>
+	</links>
+	<files>
+		<file 
+		header="Upload Data" 
+		infotext="How to upload data and fill in metadata information." 
+		name="How To Upload Data" 
+		filename="HowToUploadData_V3.0_072022.pdf" 
+		/>
+	</files>
+	<links>
+		<link 
+		infotext="HowTo Document on GitHub"
+		link="https://github.com/ATTODataPortal/Documents/blob/main/HowTo/HowToUploadData.md" 
+		/>
+	</links>
+	<files>
+		<file 
+		header="Assigning Rights" 
+		infotext="How to assign rights on your data to other users." 
+		name="How To Assign Rights" 
+		filename="HowToAssignRights_V5.0_082022.pdf" 
+		/>
+	</files>
+		<links>
+		<link 
+		infotext="HowTo Document on GitHub"
+		link="https://github.com/ATTODataPortal/Documents/blob/main/HowTo/HowToAssignRights.md" 
+		/>
+	</links>
+	<files>
+		<file 
+		header="Data Publication" 
+		infotext="Information on how to publish your data within the Max Planck Digital Library. The publication process will include the registration of a DOI, so that the dataset will be made publically available. Please see below for further instructions." 
+		name="Data Publication" 
+		filename="HowToRequestDOI.pdf" 
+		/>
+	</files>
+	<links>
+		<link 
+		infotext="HowTo Document on GitHub"
+		link="https://github.com/ATTODataPortal/Documents/blob/main/HowTo/HowToRequestDOI.md" 
+		/>
+	</links>
+	<files>
+		<file 
+		header="Introduction how to cite a dataset and acknowledge the ATTO Project" 
+		infotext="Citation and acknowledgment template when using data from the ATTO Project in your study." 
+		name="How To Cite And Acknowledge" 
+		filename="HowToCiteAndAcknowledge.pdf" 
+		/>
+	</files>
+	<links>
+		<link 
+		infotext="HowTo Document on GitHub"
+		link="https://github.com/ATTODataPortal/Documents/blob/main/HowTo/HowToCiteAndAcknowledge.md" 
+		/>
+	</links>
+	<files>
+		<file 
+		header="API’s to retrieve datasets" 
+		infotext="How to use API’s to retrieve datasets for using in analyzing software." 
+		name="How To use API querries" 
+		filename="05_Introduction how to use API_V1.0.pdf" 
+		/>
+	</files>
+	<files>
+		<file 
+		header="Open Access" 
+		infotext="Information on the Open Access publication regulation by the German Ministry for Education and Research (BMBF). It is mandatory to follow these regulations, if your project is funded by BMBF funds." 
+		name="Open Access" 
+		filename="test.txt" 
+		/>
+	</files>
+</category>
+
+<category>
+	<name>Logistics</name>
+	<description>
+		Detailed information for your field trip to the ATTO site. Please read these documents carefully before your trip and download and add these documents to your travel papers.	
+	</description>
+	<files>
+		<file 
+		header="ATTO Field Site" 
+		infotext="Overview map of the ATTO field site with all important coordinates in WGS 84 projection." 
+		name="Map of ATTO field site" 
+		filename="ATTO MAP_Version 3.03.png" 
+		/>
+	</files>
+	<files>
+		<file 
+		header="How to get to the ATTO site" 
+		infotext="Information on the arrival to the ATTO camp site." 
+		name="Travel to ATTO" 
+		filename="210219_Travel_to_ATTO.pdf" 
+		/>
+	</files>
+	<files>
+		<file
+		header="Packing and Exportation" 
+		infotext="Guideline for Packing and Exportation of scientific items to Brazil." 
+		name="Packing and Exportation" 
+		filename="GuidelineForPackingAndExportationToBrazil01-2019.pdf" 
+		/>
+	</files>
+	<files>
+		<file 
+		header="ATTO Camp Schedule and Rules" 
+		infotext="Camp schedule and the camp rules at the ATTO site." 
+		name="Camp Schedule and Rules" 
+		filename="ATTO_Site_General_Rules_03-2019.pdf" 
+		/>
+	</files>
+	<files>
+		<file 
+		header="Safety Regulations" 
+		infotext="Safety regulations for transport to/from and at ATTO site." 
+		name="Safety Regulations" 
+		filename="ATTO_SafetyRegulationsTransport_20-05-2014.pdf" 
+		/>
+	</files>
+		<files>
+		<file 
+		header="First-Aid Information" 
+		infotext="First Aid Equipment at ATTO site." 
+		name="First-Aid Information" 
+		filename="ATTO_First-Aid_Information.pdf" 
+		/>
+	</files>
+	<files>
+		<file 
+		header="Precautions to avoid snakebites" 
+		infotext="Guidelines to avoid snakebites and how to proceed in case of an incident." 
+		name="Precautions to avoid snakebites" 
+		filename="20220620_Precautions to avoid snakebite-ATTO.pdf" 
+		/>
+	</files>
+	<files>
+		<file 
+		name="Precautions to avoid snakebites (Portuguese version)" 
+		filename="20220620_Precautions to avoid snakebite-ATTO-port.pdf" 
+		/>
+	</files>
+	<files>
+		<file 
+		name="Vermeiden von Schlangenbissen" 
+		filename="20220620_Vermeiden-von-Schlangenbissen-ATTO.pdf" 
+		/>
+	</files>
+	<files>
+		<file 
+		header="Care centers of snakebites in Brazil" 
+		infotext="List with care centers of snakebites in Brazil. The nearest one is in Presidente Figueiredo and one is in Manaus." 
+		name="Care Centers" 
+		filename="ListaDePolosDeSoroParaAtendimentoDeAcidentesOfídicos.pdf" 
+		/>
+	</files>
+	<files>
+		<file 
+		header="Telephone List" 
+		infotext="Complete telephone list of contact persons, emergency numbers, and hospitals and emergency hospitalization for the ATTO site." 
+		name="Telephone List" 
+		filename="ATTO Telephone List - Status 02-2018.pdf" 
+		/>
+	</files>
+	<files>
+		<file 
+		header="Internet at ATTO" 
+		infotext="Overview of the rules for access to internet at ATTO via satellite." 
+		name="Internet Rules" 
+		filename="Rules for Access to Internet at ATTO via satellite - Status 02-2018.pdf" 
+		/>
+	</files>
+	<files>
+		<file 
+		header="Travel Health Insurance" 
+		infotext="Information on travel health insurance when traveling from Germany. " 
+		name="Info on Travel Health Insurance" 
+		filename="Overview_Health_Insurance_travelling_2016.pdf" 
+		/>
+	</files>
+</category>
+
+<category>
+	<name>Science</name>
+	<description>
+		Overview of the ATTO sub-projects, workgroups and PI's including contact details.
+	</description>
+	<files>
+		<file 
+		header="ATTO project fact sheet" 
+		infotext="The ATTO project fact sheet form must be FILL OUT by each PI for every ATTO (sub-)project. Please send the filled form back to attodbm[at]bgc-jena.mpg.de " 
+		name="Fact sheet" 
+		filename="ATTO_project_fact_sheet_static_2018-08-29.pdf" 
+		/>
+	</files>
+	<files>
+		<file 
+		header="Contacts" 
+		infotext="List with contacts of all regsitered consortium members." 
+		name="Contact List" 
+		filename="ContactList_19032021.pdf" 
+		/>
+	</files>
+	<links>
+		<link 
+		header="PI mailing list" 
+		infotext="Principal Investigators of ATTO projects should subscribe to the ATTO Principal Investigators mailing list, which distributes important information for project members that is not suitable for the public ATTO mailing list. Subscription will be approved by the list owners. 
+		Subscribe here:" 
+		link="https://mail.bgc-jena.mpg.de/mailman/listinfo/atto_pis"
+		/>
+	</links>
+	<links>
+		<link 
+		header="ATTO Site Reports" 
+		infotext="All Site Reports are shared as PDF via Keeper."
+		link="https://keeper.mpdl.mpg.de/d/a9633e9174364c798f7a/" 
+		/>
+	</links>
+		<links>
+		<link 
+		header="Conference contributions" 
+		infotext="ATTO workshop - Oct 2017"
+		link="https://keeper.mpdl.mpg.de/d/e8426a75bf81454ab248/" 
+		/>
+	</links>
+	<links>
+		<link 
+		infotext="EGU Amazon Session - 2019"
+		link="https://keeper.mpdl.mpg.de/d/3dbe8a4a43f047ccb93d/" 
+		/>
+	</links>
+		<links>
+		<link 
+		infotext="ATTO Workshop - Sep 2019 "
+		link="https://keeper.mpdl.mpg.de/d/1f04b19670ce4006855f/" 
+		/>
+	</links>
+                <links>
+		<link 
+		infotext="ATTO Workshop - Oct 2021 "
+		link="https://keeper.mpdl.mpg.de/d/c744aa84a9d144388ff7/" 
+		/>
+	</links>
+		<links>
+		<link 
+		header="ATTO Seminar"
+		infotext="Slides of the ATTO Seminar"
+		link="https://keeper.mpdl.mpg.de/d/9f10229d3cfe43628ac2/" 
+		/>
+	</links>
+		<links>
+		<link 
+		infotext="Playlist of video recordings of the ATTO Seminar"
+		link="https://youtube.com/playlist?list=PLnvuIBDpEZWFaVBkIg7f8b8E1gTCSDabI" 
+		/>
+	</links>
+</category>
+</categories>
